@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-<!--
-**Felipenavs/felipenavs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+![gi](https://user-images.githubusercontent.com/112777514/188995828-c3d73411-836b-4140-93ef-5ff96553cc61.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
