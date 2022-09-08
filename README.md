@@ -1,16 +1,20 @@
-### Hi there 👋
-
-
-
-
 ![ezgif com-gif-make](https://user-images.githubusercontent.com/112777514/189000403-fe49d8d1-0fb3-48e2-8198-1d3e1279b932.gif)
+## 🙋‍♂️ About Me:
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+😄 Pronouns: He/Him
+
+🏫 Currently attending RVCC
+
+👩‍💻 Majoring in Interface Design & Web Development
+
+⚡️ Fun fact: The QWERTY keyboard was designed to slow you down.
+
+
+
+## 🛠 Soft Skills
+
+* Problem solver 
+* Critical thinker
+* Adaptability
