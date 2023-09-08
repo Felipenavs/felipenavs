@@ -7,7 +7,7 @@
 
 🏫 Currently attending RVCC
 
-👩‍💻 Majoring in Interface Design & Web Development
+👩‍💻 Majoring in Computer Science
 
 ⚡️ Fun fact: The QWERTY keyboard was designed to slow you down.
 
