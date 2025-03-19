@@ -5,7 +5,7 @@
 
 😄 Pronouns: He/Him
 
-🏫 Currently attending RVCC
+🏫 Currently attending Rutgers University
 
 👩‍💻 Majoring in Computer Science
 
